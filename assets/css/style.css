@@ -1,7 +1,8 @@
-/* .jumbotron{
+.jumbotron{
+    
     background-image: url("https://img.europapress.es/fotoweb/fotonoticia_20180201110801_640.jpg");
     background-size: cover;
-    height: 500px; */
+    height: 500px;
 }
 #start{
     background-color: red;
@@ -9,5 +10,29 @@
 }
 .head{
     color: green;
+    
+}
+
+.answerchoice {
+	border: 1px solid black;
+  border-radius: 5%;
+	width: 40%;
+	color: black;
+  text-align: center;
+  margin: 10px auto;
+  font-size: 20px;
+  background-color: white;
+
+}
+
+.answerBlock{
+    text-align: center;
+}
+#timeRemaining{
+    text-align: center;
+    color:  white;
+    font-size: 40px;
+
+
     
 }
