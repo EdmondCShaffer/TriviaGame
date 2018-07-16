@@ -108,7 +108,7 @@ $(".answerchoice").on("click", function () {
         stop();
         numberWrong++;
         userGuess="";
-        ("#answerBlock").html("<p> Wrong! The correct answer is: " + pick.choice[pick.answer] + "</p>")
+        $("#answerBlock").html("<p> Wrong! The correct answer is: " + pick.choice[pick.answer] + "</p>")
         hidepicture();
     
     }
