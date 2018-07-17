@@ -2,26 +2,26 @@
     
     background-image: url("https://img.europapress.es/fotoweb/fotonoticia_20180201110801_640.jpg");
     background-size: cover;
-    height: 500px;
+    margin-top: 15px;
 }
 #start{
     background-color: red;
     margin-top: 275px;
 }
 .head{
-    color: green;
+    color:white;
     
 }
 
 .answerchoice {
-	border: 1px solid black;
-  border-radius: 5%;
-	width: 40%;
+	border: 1px solid red;
+    border-radius: 5%;
+    width: 40%;
 	color: black;
-  text-align: center;
-  margin: 10px auto;
-  font-size: 20px;
-  background-color: white;
+    text-align: center;
+    margin: 10px auto;
+    font-size: 20px;
+    background-color: white;
 
 }
 
@@ -32,7 +32,21 @@
     text-align: center;
     color:  white;
     font-size: 40px;
-
-
+    margin-top: 15px;
+    margin-bottom: 15px;
     
+}
+h2{
+    text-align: center;
+    font-family: cursive;
+    font-weight: bolder;
+
+}
+.questionBlock{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+body{
+    background-image: url(https://pre00.deviantart.net/a4a2/th/pre/f/2013/354/f/8/wallpaper_super_mario_bros_hd_1920x1200_by_dsh_by_dshepe-d6ynxhu.jpg);
+    background-size: cover;
 }

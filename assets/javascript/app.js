@@ -146,7 +146,7 @@ function hidepicture(){
 }
 $("#reStart").on("click", function() {
     $("#reStart").hide();
-    $("#answeBlock").empty();
+    $("#answeBlock").empty()
     $("#questionBloc").empty();
     for(var i = 0; i < holder.length; i++){
         questionChoice.push(holder[i]);
@@ -157,5 +157,8 @@ $("#reStart").on("click", function() {
 })
 })
 
-
+// fix restart btn
+// picture place holders
+// style css
+// read me 
    
